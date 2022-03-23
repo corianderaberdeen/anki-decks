@@ -1,0 +1,1455 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "5f57a4e6-aaf0-11ec-a733-00d8617008ef",
+    "deck_config_uuid": "5f57a4e7-aaf0-11ec-922b-00d8617008ef",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5f57a4e7-aaf0-11ec-922b-00d8617008ef",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "1920px-Orthogonal_Projection_qtl3.svg.png",
+        "1920px-Parallelepiped-0.svg.png",
+        "1920px-Plane_equation_qtl4.svg.png",
+        "2320.png",
+        "maxresdefault-0b5f9e85700c84d67475dd196a08828c4401717e.jpg",
+        "maxresdefault.jpg",
+        "paste-0077848436ba581cb212e22404154fd7c5f1a946.jpg",
+        "paste-01a59803b58504fb4ffc8b0230c0131b3aae7cdb.jpg",
+        "paste-0916f1c50f1430a9d81ee7551410d2166067c866.jpg",
+        "paste-10440cb5712b052915cfe58a2670326987df3bb5.jpg",
+        "paste-14157ab0edeb370e14d91ebe01c1f745dab67d18.jpg",
+        "paste-173ec9b479457257058f7fe64ee57cf9abd3e16e.jpg",
+        "paste-2eaca2a6e4fd7e1d187374e26054c7ba0aa36eda.png",
+        "paste-317579716a2ca2cac3c67a2bac2a00d9a86e5550.jpg",
+        "paste-37122a872fc3f0586e244443335072874765638b.jpg",
+        "paste-3a4aca8861debcbe10cc81dfa222b36929867548.jpg",
+        "paste-3f1a31847e10c543c1ca0609a1ecbfff88fe6357.jpg",
+        "paste-48ebbb2fbcf175b2748fb07341e9a38d0b761e7e.jpg",
+        "paste-4b19cdd1f999230a83f1668daf388f2fb7cf2b19.jpg",
+        "paste-4cae4776ffd1282fcb902c5320bd045109424abc.jpg",
+        "paste-590eb7abea40fcd361eaa5ed2bdb4e29ee96655f.jpg",
+        "paste-5b819b4871c639d0f9a6c2d9f760f61068f029f6.jpg",
+        "paste-5cdf1a7e21f5f9fff58ce83c39b7d048b07483b4.jpg",
+        "paste-60b9e4bba5164339bc4046d8171fb1bbe6bba5c7.jpg",
+        "paste-6605fc040056eef860b5936c51f289507be7daa2.jpg",
+        "paste-6ff19c4ddb4e9f173d9af053096349c085107000.jpg",
+        "paste-71b7d4bd327b0277734c361b383990ee3f9d10fc.jpg",
+        "paste-7a7ff36854b6b41f8475cde4fc7fba66c9e90fbf.jpg",
+        "paste-7b04dc0ecb23b7232a7b9b28ace4b177d27002b6.jpg",
+        "paste-7dd966891ca1431952e0b301ae614ca6c17bfddb.jpg",
+        "paste-9c6100e75f42e82c19b3f94a1fd7f52fc30c65da.jpg",
+        "paste-9d0a1513aa6b3bdcb2e99ed84700c77a57611f0c.jpg",
+        "paste-a193991678e7e31e4faa8f36b8fb2d19a6391127.jpg",
+        "paste-a405bd552c8046b3a64f7264836b199fd8e102d0.jpg",
+        "paste-b04f26af0d139e44f042abd7ae16533046cf4aa2.jpg",
+        "paste-b17f68aa70fa1fb594ef51777b7ffa40c4f82e1d.jpg",
+        "paste-b5f92fb6872946b5a33c79f2a0e71d551ec3b5b6.jpg",
+        "paste-c0d9a0b811b8d7854a23f8c404fde6ef6016658f.jpg",
+        "paste-c48734e6bf47b461ed6cefaed8b5063ac657135b.jpg",
+        "paste-c8f87383d6da49c43243fd780543be08b90968fa.jpg",
+        "paste-cde9dea3d915e4779c277367219266447fee2843.jpg",
+        "paste-ce545ef833974fda1e0e7da6f20fb8320ef6167a.jpg",
+        "paste-d0b65eb5e2907c12391eabde9187b20574f45dce.jpg",
+        "paste-d4452d2d9ac36cde7070a2f3862e8f24c6ada77a.jpg",
+        "paste-d90646e98e8b013757200fdeed23541ddcf1307b.jpg",
+        "paste-dcc776b66299e91178eba8c1f026a1723e115fc2.jpg",
+        "paste-e65df5d81b3366a63fedb4c129dd7af8ed6f0b56.jpg",
+        "paste-eabceae8f938033fca2cdaad89940e32e8c7e308.jpg",
+        "paste-f44bdca5fb66a3fa8a3fe95700a25779b571153c.jpg",
+        "paste-f8f2a43653a8c622521151d109c211c7be2480e4.jpg"
+    ],
+    "name": "Geometrieverarbeitung",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze-7f9ac",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}\n\n<script defer>\n    // for Anki 2.1\n    MathJax.Hub.Config({ TeX: { extensions: [\"color.js\"] }});\n</script>\n<script type=\"text/x-mathjax-config\">\n    MathJax.Hub.processSectionDelay = 0;\n    MathJax.Hub.Config({\n        TeX: { extensions: [\"color.js\"] },\n        messageStyle: 'none',\n        showProcessingMessages: false,\n        tex2jax: {\n            inlineMath: [ ['$','$'], ['\\\\(','\\\\)'] ],\n            displayMath: [ ['$$','$$'], ['\\\\[','\\\\]'] ],\n            processEscapes: true\n        }\n        });\n</script>\n<script type=\"text/javascript\">\n    (function () {\n        if (typeof MathJax === \"undefined\") {\n            var script = document.createElement('script');\n            script.type = 'text/javascript';\n            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';\n            document.body.appendChild(script);\n        }\n    })();\n</script>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n\n<script defer>\n    // for Anki 2.1\n    MathJax.Hub.Config({ TeX: { extensions: [\"color.js\"] }});\n</script>\n<script type=\"text/x-mathjax-config\">\n    MathJax.Hub.processSectionDelay = 0;\n    MathJax.Hub.Config({\n        TeX: { extensions: [\"color.js\"] },\n        messageStyle: 'none',\n        showProcessingMessages: false,\n        tex2jax: {\n            inlineMath: [ ['$','$'], ['\\\\(','\\\\)'] ],\n            displayMath: [ ['$$','$$'], ['\\\\[','\\\\]'] ],\n            processEscapes: true\n        }\n        });\n</script>\n<script type=\"text/javascript\">\n    (function () {\n        if (typeof MathJax === \"undefined\") {\n            var script = document.createElement('script');\n            script.type = 'text/javascript';\n            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';\n            document.body.appendChild(script);\n        }\n    })();\n</script>"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Parallel}}projektion bildet Punkte von einem Punktraum auf eine Ebene durch {{c2::parallele}} Projektionsstrahlen ab.",
+                "<img src=\"maxresdefault.jpg\">"
+            ],
+            "guid": "n/Do;;2D30",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Parallelprojektionen bilden parallele Strecken auf {{c1::parallele Strecken}} ab und erhalten {{c1::Teilverhältnisse}}.",
+                "<img src=\"paste-f8f2a43653a8c622521151d109c211c7be2480e4.jpg\">"
+            ],
+            "guid": "t<ZZHK*?P}",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Drei von einem Punkt ausgehende Strecken bilden die Schenkel eines {{c1::Dreibeins}}.",
+                "<img src=\"maxresdefault-0b5f9e85700c84d67475dd196a08828c4401717e.jpg\">"
+            ],
+            "guid": "faLiiM<|<L",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Satz von {{c1::Pohlke}}</b><br>Jedes {{c3::Dreibein}}, das eine Ebene aufspannt, ist {{c3::Parallelprojektion}} eines {{c2::gleichschenkligen}} {{c2::orthogonalen}} {{c3::Dreibeins}} im Raum.",
+                "<img src=\"paste-dcc776b66299e91178eba8c1f026a1723e115fc2.jpg\">"
+            ],
+            "guid": "K[G?%nLb](",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Militärprojektion}} ergänzt einen {{c2::Grundriss}} zu einer {{c2::Parallelprojektion}}. Sie erhält {{c3::vertikale Längen}}.",
+                "<img src=\"paste-10440cb5712b052915cfe58a2670326987df3bb5.jpg\">"
+            ],
+            "guid": "u-S5kJLwC}",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Kavalierprojektion}} ergänzt einen {{c2::Aufriss}} zu einer {{c2::Parallelprojektion}}. Dabei werden Längen in {{c3::x-Richtung}} erhalten und im Winkel von {{c3::45°}} zur y-Achse gezeichnet.",
+                "<img src=\"paste-37122a872fc3f0586e244443335072874765638b.jpg\">"
+            ],
+            "guid": "uK$~9@Q:d@",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Kabinettprojektion}} entspricht einer Kavalierprojektion, bei der Längen in x-Richtung {{c2::halbiert}} werden.",
+                "<img src=\"paste-0916f1c50f1430a9d81ee7551410d2166067c866.jpg\">"
+            ],
+            "guid": "hE3h-iD+N(",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Orthogonale Projektionen}} sind {{c2::Parallelprojektionen}}, bei denen die Projektionsstrahlen {{c2::senkrecht}} zur Bildebene sind.",
+                "<img src=\"1920px-Orthogonal_Projection_qtl3.svg.png\">"
+            ],
+            "guid": "bL?Zi^FD97",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::isometrische Projektion}} ist eine {{c2::orthogonale}} Projektion, bei der die Axen {{c2::gleich verkürzt}} werden und im Winkel von {{c2::120°}} zueinander stehen.",
+                "<img src=\"paste-173ec9b479457257058f7fe64ee57cf9abd3e16e.jpg\">"
+            ],
+            "guid": "L#W]+t0l6=",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::dimetrische}} Projektion ist eine {{c2::orthogonale}} Projektion, bei der {{c2::zwei}} der drei Axen {{c2::gleich}} verkürzt werden.",
+                "<img src=\"paste-e65df5d81b3366a63fedb4c129dd7af8ed6f0b56.jpg\">"
+            ],
+            "guid": "qq3#*q2d5t",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der {{c1::Grundriss}} ergibt sich durch die {{c2::orthogonale}} Projektion:<br>{{c2::<img src=\"paste-6ff19c4ddb4e9f173d9af053096349c085107000.jpg\">}}",
+                ""
+            ],
+            "guid": "PQl;)*zBZm",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der {{c1::Aufriss}} ergibt sich durch die Projektion<br>{{c2::<img src=\"paste-6605fc040056eef860b5936c51f289507be7daa2.jpg\">}}",
+                ""
+            ],
+            "guid": "MDv(0T}p-c",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grund- und Aufriss werden mit gemeinsamer {{c1::y}}-Achse gezeichnet. Sie heißt {{c1::Rissachse}}. Linien zwischen sich entsprechenden Punkten heißen {{c2::Ordnungslinien}}. Sie stehen {{c2::senkrecht}} zur {{c1::Rissachse}}.",
+                "<img src=\"paste-317579716a2ca2cac3c67a2bac2a00d9a86e5550.jpg\">"
+            ],
+            "guid": "x9b3?3hB=8",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Projektion auf eine beliebige Ebene senkrecht zur {{c1::xy}}-Ebene heißt {{c2::Seitenriss}}. {{c1::Allgemeine}} {{c2::Seitenrisse}} können ein Objekt aus einer beliebigen Richtung zeigen.",
+                ""
+            ],
+            "guid": "H2>0VNmJ56",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<img src=\"paste-14157ab0edeb370e14d91ebe01c1f745dab67d18.jpg\">}}<br>heißt {{c2::implizite}} Flächendarstellung.",
+                "<img src=\"paste-d0b65eb5e2907c12391eabde9187b20574f45dce.jpg\">"
+            ],
+            "guid": "q$Q_6`Rrnd",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<img src=\"paste-c48734e6bf47b461ed6cefaed8b5063ac657135b.jpg\">}}<br>heißt {{c2::Gradient}} der Fläche \\(F\\). Die {{c1::\\(F_x,F_y,F_z\\)}} sind die {{c2::partiellen Ableitungen}} von \\(F\\). Der {{c2::Gradient}} zeigt in die Richtung der größten Änderung der Fläche.",
+                "<img src=\"2320.png\">"
+            ],
+            "guid": "wz2s0}Tc-#",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formuliere die <b>Ebenengleichung</b> der Tangentialebene einer Fläche \\(F\\) am Punkt \\(\\textbf{x}\\)&nbsp;mithilfe des Gradienten",
+                "<img src=\"paste-3f1a31847e10c543c1ca0609a1ecbfff88fe6357.jpg\">"
+            ],
+            "guid": "Mn|dk!lloo",
+            "note_model_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wenn {{c1::\\(\\nabla F=\\textbf{o}\\)}} heißt \\(\\textbf{x}\\) {{c2::singulärer Punkt}}. Lokale Maxima sind z.B. {{c2::singuläre Punkte}}.",
+                ""
+            ],
+            "guid": "vvc(3Gr)tJ",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der {{c1::Umriss}} (bzw. die {{c1::Konturlinie}}) berandet die {{c2::Silhouette}}/den {{c2::Schatten}} einer Fläche.",
+                ""
+            ],
+            "guid": "k#BAx!HpM~",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "1DarstellendeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein {{c1::affiner}} Raum ist eine {{c2::Punktmenge}} \\(\\mathcal{A}\\) mit einem zugeordneten {{c2::Vektorraum}} \\(\\textbf{A}\\) und einer {{c3::surjektiven}} binären Operation<br>{{c3::\\[\\begin{align}<br>-:\\mathcal{A}\\times\\mathcal{A}&amp;\\to\\textbf{A}\\\\<br>(\\textbf{p},\\textbf{q})&amp;\\mapsto\\textbf{q}-\\textbf{p}<br>\\end{align}\\]}}<br>sodass für alle \\(\\textbf{r} \\in \\mathcal{A}\\) gilt<br>{{c4::\\[\\textbf{q}-\\textbf{p}=(\\textbf{r}-\\textbf{p})+(\\textbf{q}-\\textbf{r})\\]}}",
+                ""
+            ],
+            "guid": "t]5]ah9L%$",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein affines Koordinatensystem besteht aus einem {{c1::Ursprung \\(\\textbf{a}\\in\\mathcal{A}\\)}} und einer {{c1::Basis \\(\\textbf{a}_1...\\textbf{a}_n\\) von \\(\\textbf{A}\\)}}.",
+                ""
+            ],
+            "guid": "Nd4fStPgXC",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gegeben ein affines System \\(\\textbf{aa}_1...\\textbf{a}_n\\) wird ein Punkt \\(\\textbf{x}\\) durch die Gleichung<br>{{c1::<img src=\"paste-f44bdca5fb66a3fa8a3fe95700a25779b571153c.jpg\">}}<br>dargestellt. Die Koeffizienten {{c1::\\(x_i\\)}} heißen {{c2::affine Koordinaten}} und bilden den {{c2::Koordinatenvektor}} {{c1::\\([x_1...x_n]^t\\)}}.",
+                ""
+            ],
+            "guid": "e6Xjk%;=92",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Koeffizienten \\(x_0,...,x_n\\) in<br>\\(\\textbf{p}=\\textbf{p}_0x_0+...+\\textbf{p}_nx_n\\)<br>heißen {{c1::baryzentrische Koordinaten}} bezüglich des {{c2::Grundecks}} \\(\\textbf{p}_0...\\textbf{p}_n\\).",
+                "<img src=\"paste-9c6100e75f42e82c19b3f94a1fd7f52fc30c65da.jpg\">"
+            ],
+            "guid": "A-yIQ<TG(,",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für die baryzentrischen Koordinaten \\(x_0,...,x_n\\) gilt<br>\\[x_0+...+x_n={{c1::1}}\\]",
+                ""
+            ],
+            "guid": "n>oo>_3Krx",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::\\(\\Bbb{p}=\\begin{bmatrix}1\\\\ \\textbf{p}\\end{bmatrix}\\)}} ist der {{c2::erweiterte}} Koordinatenvektor des Punkts \\(\\textbf{p}\\).",
+                ""
+            ],
+            "guid": "sVT$4E^kE4",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Man sagt, dass ein Grundeck \\(\\textbf{p}_0...\\textbf{p}_n\\) einen Punktraum \\(\\mathcal{A}\\) {{c1::aufspannt}}.",
+                ""
+            ],
+            "guid": "J<-GyoaY}6",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Punkte \\(\\textbf{q}_0,...\\textbf{q}_m\\) heißen {{c1::affin voneinander unabhängig}}, wenn {{c2::die Vektoren \\(\\textbf{q}_i-\\textbf{q}_0\\) linear voneinander unabhängig sind}}.",
+                ""
+            ],
+            "guid": "Re:?uQ(JEy",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Affinkombination ist {{c1::eine Summe<br><img src=\"paste-71b7d4bd327b0277734c361b383990ee3f9d10fc.jpg\">}}<br>gewichteter Punkte mit<br>\\(\\omega=\\)<br>{{c2::<img src=\"paste-5cdf1a7e21f5f9fff58ce83c39b7d048b07483b4.jpg\">}}<br>",
+                ""
+            ],
+            "guid": "wqqka0HHOm",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Affinkombination heißt {{c1::Konvexkombination}}, falls<br> {{c2::<img src=\"paste-48ebbb2fbcf175b2748fb07341e9a38d0b761e7e.jpg\">}}",
+                ""
+            ],
+            "guid": "urB,&%)8*I",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Menge aller {{c1::Konvexkombinationen}} bildet die {{c2::konvexe Hülle}} der Punktmenge \\(\\{\\textbf{p}_0,...,\\textbf{p}_m\\}\\).",
+                ""
+            ],
+            "guid": "i>xki+5a%t",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die konvexe Hülle eines Grundecks heißt {{c1::Simplex}}.",
+                ""
+            ],
+            "guid": "zra8k[5oPK",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Simplex der Dimension n heißt<br>n=1: {{c1::Strecke}}<br>n=2: {{c1::Dreieck}}<br>n=3: {{c1::Tetraeder}}",
+                "<img src=\"paste-5b819b4871c639d0f9a6c2d9f760f61068f029f6.jpg\">"
+            ],
+            "guid": "GpjdF+b`1P",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein affiner Unterraum kann dargestellt werden durch die Lösung <br>{{c2::<img src=\"paste-9d0a1513aa6b3bdcb2e99ed84700c77a57611f0c.jpg\">}}<br>eines inhomogenen {{c1::linearen Gleichungssystems (LGS)}}:<br>{{c1::<img src=\"paste-4cae4776ffd1282fcb902c5320bd045109424abc.jpg\">}}<br><br>Dabei hat das {{c1::LGS}} Rang {{c3::\\(n-r\\)}} und der Unterraum die Dimension {{c3::\\(r\\)}}.",
+                ""
+            ],
+            "guid": "vdQ&ys,WvP",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sei ein affiner Unterraum durch die Lösung<br><img src=\"paste-c8f87383d6da49c43243fd780543be08b90968fa.jpg\"><br>eines LGS gegeben.<br>Der Parametervektor {{c1::\\(\\textbf{y}\\)}} stellt {{c1::\\(\\textbf{x}\\)}} bezüglich des Unterraum-Koordinatensystems {{c1::\\(\\textbf{bb}_1...\\textbf{b}_r\\)}} dar.<br>",
+                ""
+            ],
+            "guid": "E88vgV`;m?",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine {{c1::Hyperebene}} <br>\\(u(\\textbf{x})={{c3::u_1x_1+...+u_nx_n+u_0=0}}\\)<br>ist ein {{c2::(\\(n-1\\))}}-dimensionaler {{c2::Unterraum}} des \\(\\mathcal{A}^n\\).",
+                ""
+            ],
+            "guid": "u$ANti-aym",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine lineare Ungleichung<br>{{c1::<img src=\"paste-d90646e98e8b013757200fdeed23541ddcf1307b.jpg\">}}<br>stellt einen {{c2::Halbraum}} dar.",
+                ""
+            ],
+            "guid": "Qfw~wZ*J/A",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die 6 Simplexe<br>{{c1::<img src=\"paste-d4452d2d9ac36cde7070a2f3862e8f24c6ada77a.jpg\">}}<br>zerlegen den Einheitswürfel im \\(\\mathcal{A}^3\\).",
+                "<img src=\"paste-0077848436ba581cb212e22404154fd7c5f1a946.jpg\">"
+            ],
+            "guid": "mF*-d~[HG,",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein \\(n\\)-dimensionales Simplex ist ein beschränkter Schnitt von {{c1::\\(n+1\\) Halbräumen}}.",
+                ""
+            ],
+            "guid": "Bk5iaTs]MR",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein {{c1::regelmäßiges Dreiecksgitter}} besteht aus den {{c2::Isolinien}}<br>{{c3::\\(\\alpha=i,~\\beta=j,~\\gamma=k\\) für \\(i,j,k\\in\\Bbb{Z}\\)}}<br>bezüglich des Dreiecks \\(\\textbf{abc}\\) und<br>\\(\\textbf{x}=\\textbf{a}\\alpha+\\textbf{b}\\beta+\\textbf{c}\\gamma\\).",
+                ""
+            ],
+            "guid": "Ar4?vzs~6k",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Abbildung \\(\\Phi:\\mathcal{A}\\to\\mathcal{B}\\) zwischen affinen Räumen heißt affin, wenn für alle Affinkombinationen<br><img src=\"paste-b04f26af0d139e44f042abd7ae16533046cf4aa2.jpg\"><br>gilt:<br>{{c1::<img src=\"paste-a405bd552c8046b3a64f7264836b199fd8e102d0.jpg\">}}<br>Diese Eigenschaft heißt {{c2::Invarianz}}.",
+                ""
+            ],
+            "guid": "c#3~g9@I-]",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sei \\(\\Phi\\) eine affine Abbildung und \\(\\textbf{v}=\\textbf{y}-\\textbf{x}\\) mit \\(\\textbf{x},\\textbf{y}\\) zwei Punkte.<br><br>Die \\(\\Phi\\) zugeordnete {{c1::lineare}} Abbildung \\(\\varphi:\\textbf{A}\\to\\textbf{B}\\) ist gegeben durch:<br>\\(\\varphi(\\textbf{v})={{c1::\\Phi(\\textbf{y})-\\Phi(\\textbf{x})=B\\textbf{v} }}\\)",
+                ""
+            ],
+            "guid": "rRzpb^$=7u",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zwei affine Unterräume \\(\\textbf{p}+\\textbf{U}\\) und \\(\\textbf{q}+\\textbf{V}\\) heißen <b>parallel</b>, falls {{c1::\\(\\textbf{U}\\subset\\textbf{V}\\) oder \\(\\textbf{V}\\subset\\textbf{U}\\)}}.",
+                ""
+            ],
+            "guid": "Hn(i*.jhBI",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Seien \\(\\textbf{p}+\\textbf{U}\\) und \\(\\textbf{q}+\\textbf{V}\\) zwei parallele affine Unterräume. Die linearen Räume \\(\\textbf{U}\\) und \\(\\textbf{V}\\) heißen auch {{c1::Richtungen}} der affinen Unterräume.",
+                ""
+            ],
+            "guid": "L-I*[;nG2v",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zwei Strecken \\(\\textbf{ab}\\) und \\(\\textbf{cd}\\subset\\mathcal{A}^n\\) heißen parallel, wenn<br>{{c1::\\(\\textbf{d}-\\textbf{c}=(\\textbf{b}-\\textbf{a})\\rho,~\\rho\\in\\Bbb{R}\\)}}",
+                ""
+            ],
+            "guid": "OvkZC{YwnQ",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Affine Abbildungen erhalten {{c1::Parallelität}} und {{c1::Teilverhältnisse}}.",
+                ""
+            ],
+            "guid": "myx?nyw[8S",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Baryzentrische Koordinaten und verallgemeinerte baryz. Koord. sind beide über einer Menge Punkte \\(\\textbf{p}_i\\in\\mathcal{A}^n\\) mit<br><img src=\"paste-cde9dea3d915e4779c277367219266447fee2843.jpg\"><br>definiert.<br><br>Dabei bilden die \\(\\textbf{p}_i\\) für baryz. Koord. ein {{c1::Grundeck \\(\\textbf{p}_0...\\textbf{p}_n\\)}} und für verallg. baryz. Koord. ein {{c1::Polygon \\(\\textbf{p}_1...\\textbf{p}_m\\)}}.&nbsp;",
+                ""
+            ],
+            "guid": "NZzd^@qTs*",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die baryzentrischen Koordinaten \\(\\alpha_i,\\beta_j,\\gamma_i\\) von \\(\\textbf{p}\\) bezüglich \\(\\textbf{p}_{i-1}\\textbf{p}_i\\textbf{p}_{i+1}\\) bilden die {{c1::speziellen verallgemeinerten baryz. Koordinatenvektoren}}<br>\\(\\Bbb{b}_i=\\)<br>{{c2::<img src=\"paste-ce545ef833974fda1e0e7da6f20fb8320ef6167a.jpg\">}}.",
+                ""
+            ],
+            "guid": "z|$#|2EV;u",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein verallgemeinerter baryz. Koord.vektor (VBKV) \\(\\Bbb{w}\\) kann als {{c1::Affinkombination}} der {{c2::speziellen VBKV \\(\\Bbb{b}_i\\)}} dargestellt werden:<br>\\(\\mathbb{w}={{c1::\\sum\\Bbb{b}_ic_i}}\\)",
+                ""
+            ],
+            "guid": "Q|*g#ZV]z3",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Wachspress-Koordinaten}}&nbsp; sind gegeben durch<br>\\[\\omega_i={{c2::\\frac{\\lambda_i}{\\sum_j\\lambda_j} }}\\]<br>mit<br>\\[\\lambda_i={{c3::\\frac{d_i}{a_ia_{i-1} } }}\\]<br>und<br>\\[a_i={{c4::\\textsf{det}\\begin{bmatrix}1&amp;1&amp;1\\\\ \\textbf{p}&amp;\\textbf{p}_i&amp;\\textbf{p}_{i+1}\\end{bmatrix} }},~d_i={{c4::\\textsf{det}\\begin{bmatrix}1&amp;1&amp;1\\\\ \\textbf{p}_ {i-1}&amp;\\textbf{p}_i&amp;\\textbf{p}_{i+1}\\end{bmatrix} }}\\]",
+                ""
+            ],
+            "guid": "g.@4CC%$Sn",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für den Wachspress-Koordinatenvektor \\(\\Bbb{w}\\) und die spez. verallg. baryz. Koord.vektoren \\(\\Bbb{b}_i\\) gilt<br>\\[[\\Bbb{b}_1...\\Bbb{b}_n]\\Bbb{w}={{c1::\\Bbb{w} }}\\]",
+                ""
+            ],
+            "guid": "f(}h3JKLzQ",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wenn Punkt \\(\\textbf{p}\\) innerhalb eines konvexen Polynoms liegt, gilt für den zugehörigen Wachspress-Koordinatenvektor<br>{{c1::\\[\\Bbb{w}\\geq\\textbf{o}\\]}}",
+                ""
+            ],
+            "guid": "bs2Y*4zxf8",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der Wachspress-Koord.vektor \\(\\Bbb{w}\\) ist für alle affinen Abbildungen \\(\\Phi\\) affin {{c1::invariant}}.",
+                "Das heißt für Punkt \\(\\textbf{p}\\) und Polygon \\(\\mathcal{P}\\) sowie deren Bilder \\(\\Phi(\\textbf{p})\\) und \\(\\Phi(\\mathcal{P})\\) sind die Wachspress-Koordinaten gleich."
+            ],
+            "guid": "LJppK,5Ncq",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nach der Kotangensformel kann man die \\(\\lambda_i\\) der Wachspress-Koordinaten \\(\\omega_i=\\frac{\\lambda_i}{\\sum_j\\lambda_j}\\) berechnen durch<br>\\[\\lambda_i={{c1::\\frac{\\textsf{cot}\\rho+\\textsf{cot}\\varphi }{c_i^2} }}\\]",
+                "<img src=\"paste-590eb7abea40fcd361eaa5ed2bdb4e29ee96655f.jpg\">"
+            ],
+            "guid": "z>|hr?H@L6",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Mittelwertkoordinaten \\(\\mu_i\\)}} eines Punktes \\(\\textbf{p}\\) über einem Polygon \\(\\textbf{p}_1...\\textbf{p}_n\\) sind<br>\\[\\mu_i={{c2::\\frac{\\nu_i}{\\sum_j\\nu_j} }}\\]<br>mit<br>\\[\\nu_i={{c3::\\frac{1}{c_i}(\\textsf{tan}~\\delta_{i-1}+\\textsf{tan}~\\delta_i)}}\\]",
+                "<img src=\"paste-a193991678e7e31e4faa8f36b8fb2d19a6391127.jpg\">"
+            ],
+            "guid": "P-7/n}7H2X",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der {{c1::Kern}} eines Polygons besteht aus allen Punkten im Inneren, {{c2::von denen aus der gesamte Polygonrand gesehen werden kann}}.",
+                "<img src=\"paste-60b9e4bba5164339bc4046d8171fb1bbe6bba5c7.jpg\">"
+            ],
+            "guid": "y{M_Q.qT9n",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für eine Menge von Polygonen sind die Mittelwertkoordinaten wohldefiniert, wenn {{c1::die Polygone geschachtelt ineinander mit alternierender Orientierung vorliegen}}.",
+                "<img src=\"paste-b17f68aa70fa1fb594ef51777b7ffa40c4f82e1d.jpg\">"
+            ],
+            "guid": "rU)$zV3EGb",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "2AffineGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein euklidischer Vektorraum ist ein {{c1::reeller}} Vektorraum mit einem {{c1::Skalarprodukt}}.",
+                ""
+            ],
+            "guid": "x[[@WDv%u-",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein euklidischer Raum ist ein {{c1::affiner}} Raum, dessen zugeordneter Vektorraum euklidisch ist.",
+                ""
+            ],
+            "guid": "yLZFzB$i/h",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein affines Koord.system \\(\\textbf{aa}_1...\\textbf{a}_n\\) ist ein euklidisches Koordinatensystem, wenn {{c1::die Vektoren \\(\\textbf{a}_1...\\textbf{a}_n\\) eine orthonormale Basis bilden}}.",
+                "orthonormal = Vektoren sind orthogonal zueinander und haben Länge=1"
+            ],
+            "guid": "d?:^2F;Lf5",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine euklidische Bewegung ist eine {{c1::Affinität}} \\(\\Phi:\\mathcal{E}^n\\to\\mathcal{E}^n\\), die {{c2::Längen}} und daher auch {{c2::Winkel}} erhält.",
+                "<br>Eine Affinität ist eine bijektive affine Abbildung, die einen affinen Raum auf sich selbst abbildet."
+            ],
+            "guid": "fya?C*Gilt",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Affinität ist eine {{c1::affine bijektive Abbildung eines affinen Raumes auf sich selbst}}.",
+                ""
+            ],
+            "guid": "C8cO7Yz}m?",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Löse \\(A\\textbf{x}=\\textbf{b}\\) mit der Cramer'schen Regel:<br>\\[x_i={{c1::\\frac{\\textsf{det}(A_i)}{\\textsf{det}(A)} }}\\]",
+                "mit \\(A_i\\)=ersetze \\(i\\)-te Spalte von \\(A\\) durch \\(\\textbf{b}\\)"
+            ],
+            "guid": "rd!(1imwm~",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rangsatz für die Matrix \\(A\\):<br>\\(\\textsf{dim}(A)={{c1::\\textsf{def}(A)+\\textsf{rang}(A)}}\\)",
+                "\\(\\textsf{dim}(A)\\) ist die Anzahl der Spalten von \\(A\\)<br>def=Defekt=\\(\\textsf{dim}(\\textsf{Kern}(A))\\)"
+            ],
+            "guid": "s2/0umcR8h",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der Defekt einer Matrix ist {{c1::die Dimension ihres Kerns}}.",
+                ""
+            ],
+            "guid": "rc*Mo+WHF2",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der Rang einer Matrix ist {{c1::die Anzahl linear unabhängiger Spaltenvektoren=Anzahl linear unabhängiger Zeilenvektoren}}.",
+                ""
+            ],
+            "guid": "e;I-OfHFPs",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der Kern einer Matrix \\(A\\) sind die Vektoren \\(\\textbf{v}\\) für die gilt<br>{{c1::\\[A\\cdot\\textbf{v}=\\textbf{o}\\]}}",
+                ""
+            ],
+            "guid": "uk.U.);kox",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine \\((n\\times n)\\)-Matrix \\(A\\) hat einen Kern, wenn {{c1::\\(\\textsf{det}(A)=0\\)}}.&nbsp;<br>Das bedeutet, dass \\(A\\) {{c1::nicht invertierbar}} ist. Die Matrix heißt dann auch {{c2::singulär (englisch: singular/degenerate)}}.",
+                ""
+            ],
+            "guid": "s/LD10lM&%",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\[\\textsf{det}<br>\\begin{pmatrix}<br>a&amp;b\\\\<br>c&amp;d<br>\\end{pmatrix}<br>=\\]",
+                "<img src=\"paste-c0d9a0b811b8d7854a23f8c404fde6ef6016658f.jpg\">"
+            ],
+            "guid": "p}y-1~]Sx",
+            "note_model_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\[\\textsf{det}<br>\\begin{pmatrix}<br>a&amp;b&amp;c\\\\<br>d&amp;e&amp;f\\\\<br>g&amp;h&amp;i<br>\\end{pmatrix}<br>=\\]",
+                "<img src=\"paste-eabceae8f938033fca2cdaad89940e32e8c7e308.jpg\"><br>oder<br><img src=\"paste-2eaca2a6e4fd7e1d187374e26054c7ba0aa36eda.png\">"
+            ],
+            "guid": "Fge<&H<cE7",
+            "note_model_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein Polygon ist ein 2-dimensionales {{c1::Polytop}}.",
+                "<img src=\"paste-7a7ff36854b6b41f8475cde4fc7fba66c9e90fbf.jpg\">"
+            ],
+            "guid": "z(P5+7JF@!",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "det(AB)={{c1::det(A)det(B)}}",
+                ""
+            ],
+            "guid": "P+}9?h&{BM",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\textsf{det}(A^{-1})={{c1::\\frac 1 {\\textsf{det}(A)} }}\\)",
+                ""
+            ],
+            "guid": "G!Z:}!rOA&",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Matrix \\(B\\) ist {{c1::orthonormal}} \\(\\iff\\) {{c2::\\(B^{-1}\\)}} = {{c2::\\(B^t\\)}}",
+                ""
+            ],
+            "guid": "KNIAF8>5dD",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Matrix heißt orthonormal oder orthogonal, wenn {{c1::ihre Zeilen und Spalten orthonormale Vektoren sind}}.",
+                ""
+            ],
+            "guid": "KwNc^-,rVX",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "ZusatzMathe"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine affine Abb. \\(\\Phi(\\textbf{x})=\\textbf{b}+B\\textbf{x}\\) ist eine euklidische Bewegung gdw. {{c1::\\(B\\) orthonormal ist}}.",
+                ""
+            ],
+            "guid": "iXg!c+a5lJ",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine eukl. Bewegung \\(\\textbf{b}+B\\textbf{x}\\) heißt {{c1::eigentlich (uneigentlich)}} falls {{c2::\\(\\textsf{det}~B=1\\) <br>(\\(bzw. \\textsf{det}~B=-1\\))}}.",
+                ""
+            ],
+            "guid": "B]}s9,NJgK",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine eigentliche Bewegung \\(\\textbf{b}+B\\textbf{x}\\) heißt {{c1::Rotation}}, falls {{c2::\\(\\textbf{b}=\\textbf{o}\\)}}.",
+                ""
+            ],
+            "guid": "lJ7Vs?_),E",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Affinität \\(\\textbf{a}+A\\textbf{x}\\) heißt {{c1::Ähnlichkeit(stransformation)}}, falls<br>{{c2::\\[A^tA=\\textsf{det}^2A\\cdot E\\]}}",
+                ""
+            ],
+            "guid": "dCzi3UNyd&",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Im \\(\\mathcal{E}^3\\) sind Rotationen {{c1::Drehungen um eine Achse}}.",
+                ""
+            ],
+            "guid": "lFkrn/~~f",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Drehachsenrichtung einer Rotation mit der Matrix \\([\\textbf{b}_1~\\textbf{b}_2~\\textbf{b}_3]\\) ist durch<br>{{c1::\\[(\\textbf{b}_i-\\textbf{e}_i)\\times(\\textbf{b}_j-\\textbf{e}_j)\\]}}<br>mit \\(i,j\\in\\{1, 2, 3\\}\\) bestimmt.",
+                "<br>\\(i,j\\) müssen so gewählt werden, dass Kreuzprodukt \\(\\neq\\textbf{o}\\)."
+            ],
+            "guid": "wYp2fX2gP9",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Euler-Winkel}} beschreiben die Drehung im \\(\\mathcal{E}^3\\) um die X-,Y- oder Z-Achse.",
+                "<br>Eine Rotation kann so z.B. durch die Drehung um die Z-,X- und wieder die Z-Achse mit den Euler-Winkeln \\(\\alpha, \\beta, \\gamma\\) ausgedrückt werden:<br><br>\\(Z_{\\alpha}X_{\\beta}Z_{\\gamma}\\)<br>"
+            ],
+            "guid": "G_IH~a!uFG",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Quaternionen}} oder {{c1::hyperkomplexe Zahlen}} sind Elemente im \\(\\Bbb{R}^4\\) der Form<br>{{c2::\\[\\Bbb{q}=(q_0...q_3)=q_0\\cdot 1+q_1i+q_2j+q_3k\\]}}",
+                "<br>Multiplikationsregeln:<br><img src=\"paste-4b19cdd1f999230a83f1668daf388f2fb7cf2b19.jpg\"><br>Anschaulich:<br><img src=\"paste-3a4aca8861debcbe10cc81dfa222b36929867548.jpg\">"
+            ],
+            "guid": "k)J4H+B1++",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Multiplikation der Quaternionen ist {{c1::nicht kommutativ}}.",
+                "<br>Sie bilden einen Schiefkörper.<br>Ein Schiefkörper hat alle Eigenschaften eines Körpers bis auf die Kommutativität der Multiplikation."
+            ],
+            "guid": "nL!3]Go*5d",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Das {{c1::konjugierte}} Quaternion zu \\(\\Bbb{q}\\) ist {{c2::\\[\\Bbb{q}^*=(q_0~~ \\textsf{-}q_1~~ \\textsf{-}q_2 ~~\\textsf{-}q_3)\\]}}",
+                ""
+            ],
+            "guid": "t.rIh[Ykk~",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für ein {{c1::Einheits}}quaternion gilt {{c2::\\[||\\Bbb{q}||^2=1\\]}}",
+                "<br>\\[||\\Bbb{q}||^2=\\sum q_i^2\\]"
+            ],
+            "guid": "v]7<>,7=YW",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Rotation um Winkel \\(\\varphi\\) in Achsrichtung \\(\\Bbb{a}\\) kann mithilfe von Quaternionen ausgedrückt werden durch<br><br>{{c1::\\[\\Bbb{r}\\cdot (0~ \\textbf{x}^t)\\cdot \\Bbb{r}^*\\]}}<br>mit<br>\\[\\Bbb{r}={{c2::(cos\\frac{\\varphi}2+sin\\frac{\\varphi}2\\Bbb{a}^t)}}\\]<br><br>\\(\\Bbb{a}\\) ist ein Einheitsquaternion.",
+                ""
+            ],
+            "guid": "s^lvlq+&Jc",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sei \\(\\Bbb{r}\\) ein Quaternion und<br>\\[\\Bbb{r}\\cdot(0~\\textbf{x}^t)\\cdot\\Bbb{r}^*\\]<br>eine Rotation.<br><br>Zur Rotation wird benutzt für<br><b>Identität</b><br>{{c1::\\(\\Bbb{r}=(1~0~0~0)\\)}}<br><b>Inverse Rotation</b><br>{{c1::\\(\\Bbb{r}^*\\)}}<br><b>Komposition von</b> \\(\\Bbb{p}\\) <b>und</b> \\(\\Bbb{r}\\)<br>{{c1::\\(\\Bbb{pr}\\)}}",
+                ""
+            ],
+            "guid": "AUd?]uU;}=",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Kreisbögen}} sind {{c2::eine glatte Kurve aus zwei Kreisbögen}}.",
+                "<img src=\"paste-01a59803b58504fb4ffc8b0230c0131b3aae7cdb.jpg\">"
+            ],
+            "guid": "k.{DM3}8>6",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zweibögen können Strecken sein durch {{c1::unendlichen Radius}}.",
+                ""
+            ],
+            "guid": "ra3&~h;$-2",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein {{c1::Punkt \\(\\textbf{p}\\)}} und ein {{c1::Tangentenvektor \\(\\textbf{t}\\)}} bilden ein {{c2::Kontaktelement}} eines Zweibogens.",
+                "<img src=\"paste-7b04dc0ecb23b7232a7b9b28ace4b177d27002b6.jpg\"><br>Die roten Punkte entsprechen den \\(\\textbf{p}\\). \\(\\textbf{t}\\) ist die Tangente des Kreises an dieser Stelle.<br>Es gilt \\(||\\textbf{t}||=1\\)."
+            ],
+            "guid": "NVyK.gYvcv",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zwei Endpunkte und {{c1::ein Kontaktelement}} bestimmen einen Zweibogen eindeutig.",
+                ""
+            ],
+            "guid": "j0h}AI:5Ge",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2 Kontaktelemente bestimmen einen Zweibogen bis auf {{c1::einen Parameter}} eindeutig.",
+                "<img src=\"paste-b5f92fb6872946b5a33c79f2a0e71d551ec3b5b6.jpg\"><br>Der Punkt \\(\\textbf{a}_1\\) muss auf dem Kreis \\(\\mathcal{K}\\) liegen. Der Parameter gibt die Position auf dem Kreis an."
+            ],
+            "guid": "I6^jDN~<{b",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für jede \\((n\\times k)\\)-Matrix \\(A\\) vom Rang \\(k\\) existiert eine {{c1::eindeutige}} {{c1::orthonormale}} Matrix \\(B\\), sodass \\[A={{c2::B\\Gamma}}\\] mit \\[\\Gamma=\\]{{c2::<img src=\"paste-7dd966891ca1431952e0b301ae614ca6c17bfddb.jpg\">}}<br>Diese Zerlegung heißt {{c1::Gram-Schmidt-Orthonormalisierung}}.",
+                ""
+            ],
+            "guid": "qVUKbcfb{G",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein {{c1::Parallelepiped}} ist ein 3-dimensionales {{c2::Parallelotop}}.<br><br>Die Punktmenge eines k-dimensionalen {{c2::Parallelotops}} kann beschrieben werden durch {{c3::\\[P_k=\\textbf{p}+A_k[0,1]^k\\]}}",
+                "<img src=\"1920px-Parallelepiped-0.svg.png\"><br>Parallelepiped. Seine Seiten sind Parallelogramme."
+            ],
+            "guid": "iC*3w[v1%,",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein Parallelotop \\(P_k\\) hat die Höhe {{c1::\\(\\gamma_{kk}\\)}} und das Volumen {{c2::\\(\\gamma_{11}...\\gamma_{kk}=det^{1/2}A^t_kA_k\\)}}.",
+                "<br>Die \\(\\gamma_{ij}\\) stammen aus der Gram-Schmidt-Orthonormalisierung \\[A=B\\Gamma\\]"
+            ],
+            "guid": "N27Hk7mL3&",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein Simplex mit den Ecken \\(\\textbf{p}_0\\) und \\(\\textbf{p}_i=\\textbf{p}_0+\\textbf{a}_i,~i=1,...k\\) hat das Volumen<br>{{c1::<br>\\[\\frac 1 {k!} vol_kP_k\\]<br>\\(P_k\\) ist ein Parallelotop}}",
+                ""
+            ],
+            "guid": "kWZFZU<WQb",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Euklidische Bewegungen lassen Volumina {{c1::invariant}}.",
+                ""
+            ],
+            "guid": "D1*&Rp#?pH",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Affinitäten \\[\\Phi(\\textbf{x})=\\textbf{p}+A\\textbf{x}\\] ändern n-dimensionale Volumina um den Faktor {{c1::\\(|\\textsf{det}~A|\\)}}.",
+                ""
+            ],
+            "guid": "pi(qUH<TIq",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Affinitäten lassen Verhältnisse n-dim. Volumen {{c1::invariant}}.",
+                ""
+            ],
+            "guid": "rFKX_Kf2L(",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sei \\(A=[a_1...a_n]\\) eine \\((n\\times n)\\)-Matrix.<br><br>Die {{c1::Kofaktoren}}<br>{{c2::\\[v_i=(-1)^{i+1}\\textsf{det}~A_{i1}\\]}}<br>bilden das {{c1::alternierende Produkt}}<br>{{c2::\\[\\textbf{v}=[v_1...v_n]\\]}}<br>der Vektoren \\(\\textbf{a}_2,...,\\textbf{a}_n\\). Dieses wird auch geschrieben als<br>{{c3::\\[\\textbf{a}_2~\\land ~...~\\land~ \\textbf{a}_n=\\textbf{v}\\]}}<br>Es gilt<br>\\[\\textsf{det}~A={{c3::\\textbf{a}^t_1\\textbf{v} }}\\]",
+                "<br>\\(A_{i1}\\) ist die Matrix \\(A\\) ohne \\(i\\)-te Zeile und erste Spalte."
+            ],
+            "guid": "iq4JaZeaL+",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für das alternierende Produkt \\(\\textbf{v}\\) gilt<br>\\[\\textbf{a}^t_i\\textbf{v}={{c1::0}}\\]<br>für \\(i=2,...,n\\).",
+                ""
+            ],
+            "guid": "gUFSZIpn2o",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Hyperebene<br>\\[\\mathcal{H}:\\textbf{x}=\\textbf{a}+{a}_2y_2+\\cdots+\\textbf{a}_ny_n\\]<br>hat mit dem alternierenden Produkt \\(\\textbf{v}\\) die Hesse-Normalform<br>{{c1::\\[\\frac{\\textbf{v}^t}{||\\textbf{v}||}(\\textbf{x}-\\textbf{a})=0\\]}}",
+                "<br><img src=\"1920px-Plane_equation_qtl4.svg.png\"><br>Hesse-Normalform<br>\\(\\textbf{x}\\cdot\\textbf{n}-d=0\\)"
+            ],
+            "guid": "yQCPd+tm{C",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Hesse-Normalform<br>\\[d(\\textbf{x})=\\textbf{n}\\cdot\\textbf{x}-u=0\\]<br>einer Hyperebene gibt den {{c1::orientierten Abstand}} eines Punktes zur Hyperebene an.",
+                ""
+            ],
+            "guid": "j-).0Uf>&|",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "3EuklidischeGeometrie"
+            ]
+        }
+    ]
+}
