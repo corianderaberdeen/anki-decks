@@ -72,30 +72,43 @@
         "paste-01a59803b58504fb4ffc8b0230c0131b3aae7cdb.jpg",
         "paste-0916f1c50f1430a9d81ee7551410d2166067c866.jpg",
         "paste-10440cb5712b052915cfe58a2670326987df3bb5.jpg",
+        "paste-139f2bb14477514c8dcd3714aee5931d91805a83.jpg",
         "paste-14157ab0edeb370e14d91ebe01c1f745dab67d18.jpg",
         "paste-173ec9b479457257058f7fe64ee57cf9abd3e16e.jpg",
+        "paste-295cf6b4de6211451a04eefbe27b26dd5704ddcf.jpg",
         "paste-2eaca2a6e4fd7e1d187374e26054c7ba0aa36eda.png",
         "paste-317579716a2ca2cac3c67a2bac2a00d9a86e5550.jpg",
+        "paste-357db574bd3ca168b897ba2c31272ba329cad9c6.jpg",
+        "paste-36820482d5939a083bfaa12db0cd6e98167bdc14.jpg",
         "paste-37122a872fc3f0586e244443335072874765638b.jpg",
         "paste-3a4aca8861debcbe10cc81dfa222b36929867548.jpg",
         "paste-3f1a31847e10c543c1ca0609a1ecbfff88fe6357.jpg",
         "paste-48ebbb2fbcf175b2748fb07341e9a38d0b761e7e.jpg",
         "paste-4b19cdd1f999230a83f1668daf388f2fb7cf2b19.jpg",
         "paste-4cae4776ffd1282fcb902c5320bd045109424abc.jpg",
+        "paste-4ff6ffd0f2ec0b604e495eb34a3b32ee9d6d170c.jpg",
+        "paste-578a84cef4b9cb9cab68e3b4130d013d2ca25580.jpg",
         "paste-590eb7abea40fcd361eaa5ed2bdb4e29ee96655f.jpg",
         "paste-5b819b4871c639d0f9a6c2d9f760f61068f029f6.jpg",
         "paste-5cdf1a7e21f5f9fff58ce83c39b7d048b07483b4.jpg",
         "paste-60b9e4bba5164339bc4046d8171fb1bbe6bba5c7.jpg",
         "paste-6605fc040056eef860b5936c51f289507be7daa2.jpg",
+        "paste-68bdedcbe263060b4e33a7b448fabd16fb22c635.jpg",
         "paste-6ff19c4ddb4e9f173d9af053096349c085107000.jpg",
         "paste-71b7d4bd327b0277734c361b383990ee3f9d10fc.jpg",
+        "paste-75446533d660e6e84137efca87ff632d010a80d5.jpg",
+        "paste-7834ce1eb2185016ac7f859939c79d78af2994f7.jpg",
         "paste-7a7ff36854b6b41f8475cde4fc7fba66c9e90fbf.jpg",
         "paste-7b04dc0ecb23b7232a7b9b28ace4b177d27002b6.jpg",
         "paste-7dd966891ca1431952e0b301ae614ca6c17bfddb.jpg",
+        "paste-7e61e13c7ed0d265beee8536b2b0695f76b78884.jpg",
+        "paste-99a3836bb4081aa2539f52ef88ff7a7383e43fd5.jpg",
         "paste-9c6100e75f42e82c19b3f94a1fd7f52fc30c65da.jpg",
         "paste-9d0a1513aa6b3bdcb2e99ed84700c77a57611f0c.jpg",
+        "paste-9e27050b446e46d0ca98831a8706ae0a173faaff.jpg",
         "paste-a193991678e7e31e4faa8f36b8fb2d19a6391127.jpg",
         "paste-a405bd552c8046b3a64f7264836b199fd8e102d0.jpg",
+        "paste-ab7d9f42c63422cbb06533e60553a891b8cc51b5.jpg",
         "paste-b04f26af0d139e44f042abd7ae16533046cf4aa2.jpg",
         "paste-b17f68aa70fa1fb594ef51777b7ffa40c4f82e1d.jpg",
         "paste-b5f92fb6872946b5a33c79f2a0e71d551ec3b5b6.jpg",
@@ -104,14 +117,19 @@
         "paste-c8f87383d6da49c43243fd780543be08b90968fa.jpg",
         "paste-cde9dea3d915e4779c277367219266447fee2843.jpg",
         "paste-ce545ef833974fda1e0e7da6f20fb8320ef6167a.jpg",
+        "paste-cff11dea3bcabfa5ca7908904b9f3dce7b0fbc7c.jpg",
         "paste-d0b65eb5e2907c12391eabde9187b20574f45dce.jpg",
         "paste-d4452d2d9ac36cde7070a2f3862e8f24c6ada77a.jpg",
+        "paste-d64847628a13fd5690b25c6aa851e3d89b9fa638.jpg",
         "paste-d90646e98e8b013757200fdeed23541ddcf1307b.jpg",
         "paste-dcc776b66299e91178eba8c1f026a1723e115fc2.jpg",
         "paste-e65df5d81b3366a63fedb4c129dd7af8ed6f0b56.jpg",
+        "paste-e815ed4dfe0fbd1b6b4caeefd42db263f0fbd0fa.jpg",
         "paste-eabceae8f938033fca2cdaad89940e32e8c7e308.jpg",
         "paste-f44bdca5fb66a3fa8a3fe95700a25779b571153c.jpg",
-        "paste-f8f2a43653a8c622521151d109c211c7be2480e4.jpg"
+        "paste-f8f2a43653a8c622521151d109c211c7be2480e4.jpg",
+        "paste-fb6c9b2745bbc69c3ed7da1cb66c775affef52ab.jpg",
+        "paste-fde4131e8d5dd6de9abe03887107f74aaefd413d.jpg"
     ],
     "name": "Geometrieverarbeitung",
     "note_models": [
@@ -227,6 +245,53 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "099f92d3-ae8c-11ec-a167-00d8617008ef",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -563,7 +628,9 @@
             ],
             "guid": "wqqka0HHOm",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -573,7 +640,9 @@
             ],
             "guid": "urB,&%)8*I",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -583,7 +652,9 @@
             ],
             "guid": "i>xki+5a%t",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -593,7 +664,9 @@
             ],
             "guid": "zra8k[5oPK",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -603,7 +676,9 @@
             ],
             "guid": "GpjdF+b`1P",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -613,7 +688,9 @@
             ],
             "guid": "vdQ&ys,WvP",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -623,7 +700,9 @@
             ],
             "guid": "E88vgV`;m?",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -633,7 +712,9 @@
             ],
             "guid": "u$ANti-aym",
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
-            "tags": []
+            "tags": [
+                "2AffineGeometrie"
+            ]
         },
         {
             "__type__": "Note",
@@ -1262,7 +1343,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::Kreisbögen}} sind {{c2::eine glatte Kurve aus zwei Kreisbögen}}.",
+                "{{c1::Zweibögen}} sind {{c2::eine glatte Kurve aus zwei Kreisbögen}}.",
                 "<img src=\"paste-01a59803b58504fb4ffc8b0230c0131b3aae7cdb.jpg\">"
             ],
             "guid": "k.{DM3}8>6",
@@ -1346,7 +1427,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Ein Parallelotop \\(P_k\\) hat die Höhe {{c1::\\(\\gamma_{kk}\\)}} und das Volumen {{c2::\\(\\gamma_{11}...\\gamma_{kk}=det^{1/2}A^t_kA_k\\)}}.",
+                "Ein Parallelotop \\(P_k\\) hat die Höhe {{c1::\\(\\gamma_{kk}\\)}} und das Volumen {{c2::\\(\\gamma_{11}\\cdots\\gamma_{kk}=det^{1/2}A^t_kA_k\\)}}.",
                 "<br>Die \\(\\gamma_{ij}\\) stammen aus der Gram-Schmidt-Orthonormalisierung \\[A=B\\Gamma\\]"
             ],
             "guid": "N27Hk7mL3&",
@@ -1406,7 +1487,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Sei \\(A=[a_1...a_n]\\) eine \\((n\\times n)\\)-Matrix.<br><br>Die {{c1::Kofaktoren}}<br>{{c2::\\[v_i=(-1)^{i+1}\\textsf{det}~A_{i1}\\]}}<br>bilden das {{c1::alternierende Produkt}}<br>{{c2::\\[\\textbf{v}=[v_1...v_n]\\]}}<br>der Vektoren \\(\\textbf{a}_2,...,\\textbf{a}_n\\). Dieses wird auch geschrieben als<br>{{c3::\\[\\textbf{a}_2~\\land ~...~\\land~ \\textbf{a}_n=\\textbf{v}\\]}}<br>Es gilt<br>\\[\\textsf{det}~A={{c3::\\textbf{a}^t_1\\textbf{v} }}\\]",
+                "Sei \\(A=[a_1...a_n]\\) eine \\((n\\times n)\\)-Matrix.<br><br>Die {{c1::Kofaktoren}}<br>{{c2::\\[v_i=(-1)^{i+1}\\textsf{det}~A_{i1}\\]}}<br>bilden das {{c1::alternierende Produkt}}<br>{{c2::\\[\\textbf{v}=[v_1...v_n]\\]}}<br>der Vektoren \\(\\textbf{a}_2,...,\\textbf{a}_n\\). Dieses wird auch geschrieben als<br>{{c3::\\[\\textbf{a}_2~\\land ~...~\\land~ \\textbf{a}_n=\\textbf{v}\\]}}<br>Es gilt<br>\\(\\textsf{det}~A=\\){{c3::\\(\\textbf{a}^t_1\\textbf{v}\\) }}",
                 "<br>\\(A_{i1}\\) ist die Matrix \\(A\\) ohne \\(i\\)-te Zeile und erste Spalte."
             ],
             "guid": "iq4JaZeaL+",
@@ -1449,6 +1530,293 @@
             "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
             "tags": [
                 "3EuklidischeGeometrie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::\\(\\Bbb{x}=\\begin{bmatrix}1\\\\ \\textbf{x}\\end{bmatrix}\\xi,~\\xi\\neq 0\\)}} heißt {{c2::homogener}} Koordinatenvektor.",
+                "<br>Das sind die Vielfachen der erweiterten Koordinantenvektoren."
+            ],
+            "guid": "GVmcM<SK(r",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::\\(\\Bbb{v}=\\begin{bmatrix}0\\\\ \\textbf{v}\\end{bmatrix}\\zeta,~\\zeta\\neq 0\\)}} heißt {{c2::Fernpunkt}} oder {{c2::uneigentlicher Punkt}}.",
+                "<br>Das sind die Vielfachen eines Vektors \\(\\textbf{v}\\)."
+            ],
+            "guid": "rK8,dIM_9%",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::\\(\\Bbb{o}=\\begin{bmatrix}0\\\\ \\textbf{o}\\end{bmatrix}\\)}} ist der {{c2::Unpunkt}}.",
+                "<br>Der Unpunkt ist kein Fernpunkt."
+            ],
+            "guid": "K}GIIg?F#j",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Hyperebene hat die homogene Darstellung {{c1::\\(\\Bbb{u}^t\\Bbb{x}=0\\)}}.",
+                "<br>Hyperebene \\(\\mathcal{H}:~\\textbf{u}^t\\textbf{x}+u_0=[u_0~\\textbf{u}^t]\\begin{bmatrix}1\\\\ \\textbf{x}\\end{bmatrix}=0\\)"
+            ],
+            "guid": "m,]s<)H-5s",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Lösung einer homogenen Gleichung \\(\\Bbb{u}^t\\Bbb{x}=0\\) ohne \\(\\Bbb{o}\\) bildet {{c1::eine projektive Hyperebene}}.",
+                ""
+            ],
+            "guid": "E0jbY>o,N6",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Die projektive Hyperebene<br>\\[\\mathcal{F}:[1\\underbrace{0\\ldots 0}_n]\\Bbb{x}=0\\]}}<br>heißt {{c2::Fern(hyper)ebene}}.",
+                "<br>Sie besteht aus den Fernpunkten des \\(\\mathcal{A}^n\\).<br>Im \\(\\mathcal{A}^2\\) heißt sie Ferngerade."
+            ],
+            "guid": "gg(^mcdzV:",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bei der {{c1::Zentralprojektion}} gehen die Projektionsstrahlen {{c2::durch ein Zentrum}}.",
+                "<br>Das Zentrum heißt Auge.<br><br><img src=\"paste-e815ed4dfe0fbd1b6b4caeefd42db263f0fbd0fa.jpg\">"
+            ],
+            "guid": "Qt0]LpE9A5",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Zentralprojektion sei gegeben durch<br><ul><li style=\"text-align: left;\">das Auge \\(\\Bbb{o}\\)</li><li style=\"text-align: left;\">die Bildebene = xz-Ebene</li><li style=\"text-align: left;\">das Koord.system der Bildebene \\[\\begin{bmatrix}0\\\\ \\delta\\\\ 0\\end{bmatrix},\\begin{bmatrix}1\\\\0\\\\0\\end{bmatrix}\\begin{bmatrix}0\\\\0\\\\1\\end{bmatrix}\\]</li></ul>Gib die Formel für das Bild der Projektion in homogenen Koordinaten an!",
+                "\\[\\Bbb{y}=\\begin{bmatrix}0&amp;&amp;1&amp;\\\\0&amp;\\delta&amp;&amp;\\\\0&amp;&amp;&amp;\\delta\\end{bmatrix}\\begin{bmatrix}1\\\\x\\\\y\\\\z\\end{bmatrix}\\zeta=\\Bbb{P}\\Bbb{x}\\]<br><br>Denn:<br>\\[\\textbf{y}=\\begin{bmatrix}\\xi\\\\ \\eta \\end{bmatrix}=\\begin{bmatrix}x\\\\z\\end{bmatrix}\\frac{\\delta}{y}\\]<br><img src=\"paste-cff11dea3bcabfa5ca7908904b9f3dce7b0fbc7c.jpg\">"
+            ],
+            "guid": "Hy/ab[;pA",
+            "note_model_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Fokaldistanz \\(\\delta\\)}} einer Zentralprojektion kontrolliert die Bildgröße.",
+                "<img src=\"paste-cff11dea3bcabfa5ca7908904b9f3dce7b0fbc7c.jpg\">"
+            ],
+            "guid": "mI>@_bV=,,",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Der Punkt auf der Bildebene, an dem {{c1::der Projektionsstrahl senkrecht zu dieser ist}}, heißt {{c2::Hauptpunkt}}.",
+                "<img src=\"paste-75446533d660e6e84137efca87ff632d010a80d5.jpg\">"
+            ],
+            "guid": "kh/$hDn|xa",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Bevor ein Objekt auf die Bildebene projeziert wird, findet normalerweise zuerst {{c1::eine Koordinatentransformation vom Objektsystem in das Kamerasystem}} statt.<br><br>Die zusammengesetzte Formel für diese Schritte lautet<br>{{c2::\\[\\Bbb{y}=\\Bbb{TPC}^{-1}\\Bbb{x}=\\Bbb{Ax}\\]}}",
+                "\\(\\Bbb{T}\\) ist eine Translation es Bildsystems<br>\\(\\Bbb{P}\\) ist die Zentralprojektion<br>\\(\\Bbb{C}^{-1}\\) ist die Transformation der Koordinaten von \\(\\Bbb{x}\\) vom Objektsystem ist das Kamerasystem"
+            ],
+            "guid": "tCqJe$?7),",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Wie werden die Koordinaten eines Punkts vom Objektsystem in das Kamerasystem transformiert?",
+                "Mit<br><img src=\"paste-578a84cef4b9cb9cab68e3b4130d013d2ca25580.jpg\"><br>gilt<br><img src=\"paste-7834ce1eb2185016ac7f859939c79d78af2994f7.jpg\"><br>wobei \\(\\Bbb{x}\\) die Koordinaten im Objektsystem und \\(\\overline{\\Bbb{x}}\\) die im Kamerasystem sind.<br><br>Damit gilt<br>\\(\\bar{\\Bbb{x}}=\\Bbb{C}^{-1}\\Bbb{x}\\)<br><img src=\"paste-36820482d5939a083bfaa12db0cd6e98167bdc14.jpg\">"
+            ],
+            "guid": "q0sstgm9ZR",
+            "note_model_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Eine Gerade<br><img src=\"paste-d64847628a13fd5690b25c6aa851e3d89b9fa638.jpg\"><br>wird auf die Gerade<br>{{c1::<img src=\"paste-99a3836bb4081aa2539f52ef88ff7a7383e43fd5.jpg\">}}<br>abgebildet.<br>{{c1::\\(\\Bbb{Pv}\\)}} heißt {{c2::Fluchtpunkt}} von \\(\\mathcal{G}\\) bzw. \\(\\mathcal{G}'\\).",
+                "<br>\\(\\Bbb{Pv}\\) ist das Bild des Fernpunkts von \\(\\mathcal{G}\\).<br><img src=\"paste-139f2bb14477514c8dcd3714aee5931d91805a83.jpg\">"
+            ],
+            "guid": "k/msMmGHee",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>{{c1::Die Ebene parallel zur Bildebene durch das Auge}} heißt {{c2::Verschwindungsebene}}.",
+                ""
+            ],
+            "guid": "f}S4dOi&2y",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>{{c1::Die Fluchtpunkte der Geraden}} einer Ebene bilden deren {{c2::Fluchtgeraden}}. Wenn die Ebene horizontal ist, heißt diese auch {{c2::Horizont}}.",
+                ""
+            ],
+            "guid": "MR,?FC{0[W",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>{{c1::Die Schnittgerade einer Ebene mit der Bildebene}} heißt {{c2::Spur}} der Ebene.",
+                ""
+            ],
+            "guid": "G0f2Fn*<[U",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Zentralprojektion hat die allgemeine Darstellung<br>{{c1::<img src=\"paste-7e61e13c7ed0d265beee8536b2b0695f76b78884.jpg\">}}<br>",
+                "<img src=\"paste-ab7d9f42c63422cbb06533e60553a891b8cc51b5.jpg\">"
+            ],
+            "guid": "nd2-hZ.=7U",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine Zentralprojektion hat die allgemeine Darstellung<br><img src=\"paste-7e61e13c7ed0d265beee8536b2b0695f76b78884.jpg\"><br>Was bedeuten die Spalten von \\(\\Bbb{A}\\)?",
+                "<img src=\"paste-295cf6b4de6211451a04eefbe27b26dd5704ddcf.jpg\">"
+            ],
+            "guid": "op$qBf.}2y",
+            "note_model_uuid": "5f581a0f-aaf0-11ec-9fd8-00d8617008ef",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-fde4131e8d5dd6de9abe03887107f74aaefd413d.jpg\"><br>Die \\(\\begin{bmatrix}\\varepsilon\\\\ \\textbf{a}_i\\end{bmatrix}\\) bilden {{c1::das Fluchtdreieck}}. Es hat {{c1::höchstens zwei}} Fernpunkte."
+            ],
+            "guid": "K)j;,cQD,N",
+            "note_model_uuid": "099f92d3-ae8c-11ec-a167-00d8617008ef",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Die Verschwindungsebene hat die Gleichung&nbsp;<br>{{c1::<img src=\"paste-68bdedcbe263060b4e33a7b448fabd16fb22c635.jpg\">}}",
+                "wobei<br><img src=\"paste-4ff6ffd0f2ec0b604e495eb34a3b32ee9d6d170c.jpg\"><br>die Zentralprojektion ist.<br><br>Das ist die Menge aller Punkte, die auf Fernpunkte abgebildet werden."
+            ],
+            "guid": "n#RETLI_<Q",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Der {{c1::nicht normierte}} Normalenvektor<br><img src=\"paste-fb6c9b2745bbc69c3ed7da1cb66c775affef52ab.jpg\"><br>der Verschwindungsebene heißt {{c1::Hauptrichtungsvektor}}.",
+                ""
+            ],
+            "guid": "KIQVL&eZ+b",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Der Hauptpunkt kann dargestellt als<br>{{c1::<img src=\"paste-357db574bd3ca168b897ba2c31272ba329cad9c6.jpg\">}}",
+                "<br>Dabei ist \\(\\textbf{n}\\) der nicht normierte Normalenvektor der Verschwindungsebene."
+            ],
+            "guid": "CYpozSHI*>",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Der Hauptpunkt liegt in {{c1::der konvexen Hülle der eigentlichen Eckpunkte des Fluchtdreiecks}}.",
+                ""
+            ],
+            "guid": "3JYB1L6N`",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zentralprojektion</b><br>Der Hauptpunkt ist der {{c1::Höhenpunkt}} des Fluchtdreiecks.",
+                "<img src=\"paste-9e27050b446e46d0ca98831a8706ae0a173faaff.jpg\"><br>Der Höhenpunkt ist der Schnittpunkt der drei Höhen eines Dreiecks."
+            ],
+            "guid": "h!v8I{y:hm",
+            "note_model_uuid": "637bf2a0-afec-11ea-9b46-4ccc6a605f05",
+            "tags": [
+                "4PerspektivischeDarstellungen"
             ]
         }
     ]
